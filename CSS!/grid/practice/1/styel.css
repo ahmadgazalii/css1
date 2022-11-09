@@ -1,0 +1,21 @@
+.main{
+    border: 9px solid yellowgreen;
+    width: 90%;
+    margin: 50px auto;
+    color: rebeccapurple;
+    height: 400px;
+    display: grid;
+    grid-template-rows: 150px 150px 150px;
+    grid-template-columns: 60px 80px 400px 70px;
+
+}
+
+
+.div1{ background-color: red;}
+.div2{ background-color: purple;}
+.div3{ background-color: aquamarine;}
+.div4{ background-color: maroon;}
+.div5{ background-color: magenta;}
+.div6{ background-color: teal;}
+.div7{ background-color: bisque;}
+.div8{ background-color: gold;}
